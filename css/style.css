@@ -1,0 +1,52 @@
+body{
+	font-family: Arial, Verdana, sans-serif;
+}
+
+h1 {
+	font-size: 1.8em;
+}
+
+h2 {
+	font-weight: normal;
+}
+
+main {
+	background-color: #f5f5f5;
+	width: 300px;
+	border-color: #dddddd;
+	border-style: solid;
+	border-width: 1px;
+	padding: 40px 20px 20px 20px;
+}
+
+a:link, a:visited {
+	color: #4c98cc;
+}
+
+.description {
+	font-size: 0.8em;
+}
+
+.date {
+	font-size: 0.9em;
+}
+
+.entry {
+	padding: 10px 10px 10px 10px;
+}
+
+.thumbnail {
+	padding: 15px 15px 5px 15px;
+	float: left;
+}
+
+.more {
+	background-color: #ffffff;
+	border-color: #4c98cc;
+	border-style: solid;
+	border-width: thin;
+	font-size: 0.8em;
+	padding: 10px 10px 10px 10px;
+	white-space: nowrap;
+	width: 80px;
+}
